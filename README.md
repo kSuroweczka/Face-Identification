@@ -11,4 +11,4 @@ Projekt podzielony został na 4 notatniki Google Colab:
 3. Wybierać odpowiedni notatnik z listy wyników wyszukiwania
 4. Jeśli notatnik wymaga plików danych, które są dostępne w repozytorium GitHub, należy je pobrać ręcznie i dodać do notatnika.
 
-W każdym z notatników wskazane są konkretne pliki, które muszą być załadowane, aby program działał prawidłowo. Wszystkie wymagane pliki znajdują się w folderze DATA (również te wygenerowane w trakcie realizacji projektu).  
+W każdym z notatników wskazane są konkretne pliki, które muszą być załadowane, aby program działał prawidłowo. Wszystkie wymagane pliki (za wyjątkiem przygotowanego przez nas zbioru danych)znajdują się w folderze DATA (również te wygenerowane w trakcie realizacji projektu).  
