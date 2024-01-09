@@ -3,7 +3,7 @@ Projekt podzielony został na 4 notatniki Google Colab:
 1. mask_detection_model - model TensorFlow do wykrywania masek na twarzy, pobranie i przygotowanie zestawu danych treningowych, walidacyjnych i testowych, budowa modelu, trening z użyciem augmentacji obrazu
 2. data_preprocessing - wykrywanie twarzy przy użyciu Haar Cascades, ekstrakcja górnej części twarzy w przypadku obecności maseczki, wykrywanie masek za pomocą wytrenowanego modelu, przetwarzanie klatek z wideo oraz dzielenie danych na zestawy treningowe i testowe
 3. face_recognition_model - generowanie osadzeń dla obrazów twarzy, tworzenie i trening modelu rozpoznającego osoby z bazy, ocena i testy modelu
-4. final_results - prezentacja wyników na zdjęciach osób z i spoza bazy
+4. final_results - prezentacja wyników
 
 ### Aby otworzyć każdy z notatników należy:
 1. Otworzyć Google Colab w przeglądarce.
